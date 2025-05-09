@@ -13,6 +13,10 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
+if you want to initialize a git repo to your local work:
+
+use this link : https://github.com/sitek94/vite-deploy-demo
+
 if you want to try and build the project to deploy in github
 
 use this link : https://github.com/sitek94/vite-deploy-demo
